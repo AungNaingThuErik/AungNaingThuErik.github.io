@@ -813,6 +813,9 @@ p {
 	}
 	#about .col-right h1 {
 		text-align: left;
+  }
+  #about .col-right p {
+		text-align: left;
 	}
 	/* End About */
 
