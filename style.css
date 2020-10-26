@@ -832,7 +832,7 @@ p {
 		text-align: left;
 	}
 	/* End About */
-
+  
 }
 /* Media Query For Larger Tablet */
 @media (max-width: 991px){
@@ -859,6 +859,9 @@ p {
   .contact-container .contact-info,
   .contact-form{
       width: 100%;
+  }
+  .contact-container .contact-info .box{
+    width: 50%;
   }
 }
 /* End Media Query For Tablet */
